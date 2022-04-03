@@ -2,6 +2,7 @@
 /**
  * Interface Mapy pro všechny hráče a místa
  */
+namespace demo\verse1;
 interface Map
 {
     /**
